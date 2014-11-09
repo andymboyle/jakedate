@@ -517,6 +517,26 @@ div > a.btn:nth-of-type(2){
 }
 
 /**********************
+******CEO Quote FROG FROG FROG****
+**********************/
+
+header{
+	background-color: #102129;
+	background-size: cover;
+	min-height: 568px;
+	max-height: 900px;
+	position: relative;
+	overflow: hidden;
+}
+header .container{
+	position: relative;
+	z-index: 3;
+}
+#header-img{
+	margin: 0 auto -400px;
+}
+
+/**********************
 ******9. Reviews****
 **********************/
 #reviews{
@@ -785,6 +805,9 @@ footer .copyright{
 	#header-img{
 		width: 345px;
 	}
+	#quote-img{
+		width: 345px;
+	}
 	#features p{
 		max-width: 345px;
 		margin-left: auto;
@@ -1002,6 +1025,9 @@ footer .copyright{
 	#header-img{
 		max-width: 90%;
 	}
+	#quote-img{
+		max-width: 90%;
+	}
 	#detailed img{
 		margin-top: 58px;
 	}
@@ -1011,6 +1037,9 @@ footer .copyright{
 		margin-bottom: 80px;
 	}
 	header{
+		min-height: 700px;
+	}
+	#quote{
 		min-height: 700px;
 	}
 }
@@ -1027,6 +1056,10 @@ footer .copyright{
 		background: #102129 url('../img/jake_wall.jpg') no-repeat top center;
 		background-size: cover;
 	}
+	#quote{
+		background: #102129 url('../img/jake_frog.jpg') no-repeat top center;
+		background-size: cover;
+	}
 }
 @media (-webkit-min-device-pixel-ratio: 1.1), (min-resolution: 120dppx){
 	.ios .floating-phone{
@@ -1038,13 +1071,21 @@ footer .copyright{
 		background-size: cover;
 	}
 	header{
-		background: #102129 url('../img/header@2x.jpg') no-repeat top center;
+		background: #102129 url('../img/jake_wall.jpg') no-repeat top center;
+		background-size: cover;
+	}
+	#quote{
+		background: #102129 url('../img/jake_frog.jpg') no-repeat top center;
 		background-size: cover;
 	}
 }
 @media (-webkit-min-device-pixel-ratio: 1.1) and (max-width: 399px), (min-resolution: 120dppx) and (max-width: 399px){
 	header{
-		background: #102129 url('../img/header-sm.jpg') no-repeat top center;
+		background: #102129 url('../img/jake_wall.jpg') no-repeat top center;
+		background-size: cover;
+	}
+	#quote{
+		background: #102129 url('../img/jake_frog.jpg') no-repeat top center;
 		background-size: cover;
 	}
 }
