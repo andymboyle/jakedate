@@ -1089,3 +1089,5 @@ footer .copyright{
 		background-size: cover;
 	}
 }
+
+.media-stuff { height: 100px; display: inline; }
