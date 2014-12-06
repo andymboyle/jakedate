@@ -1053,11 +1053,11 @@ footer .copyright{
 		background-size: cover;
 	}
 	header{
-		background: #102129 url('../img/jake_wall.jpg') no-repeat top center;
+		background: #102129 url('../img/jake_wall_resized_again_copy.jpg') no-repeat top center;
 		background-size: cover;
 	}
 	#quote{
-		background: #102129 url('../img/jake_frog.jpg') no-repeat top center;
+		background: #102129 url('../img/jake_frog_resized_again_copy.jpg') no-repeat top center;
 		background-size: cover;
 	}
 }
@@ -1071,21 +1071,21 @@ footer .copyright{
 		background-size: cover;
 	}
 	header{
-		background: #102129 url('../img/jake_wall.jpg') no-repeat top center;
+		background: #102129 url('../img/jake_wall_resized_again_copy.jpg') no-repeat top center;
 		background-size: cover;
 	}
 	#quote{
-		background: #102129 url('../img/jake_frog.jpg') no-repeat top center;
+		background: #102129 url('../img/jake_frog_resized_again_copy.jpg') no-repeat top center;
 		background-size: cover;
 	}
 }
 @media (-webkit-min-device-pixel-ratio: 1.1) and (max-width: 399px), (min-resolution: 120dppx) and (max-width: 399px){
 	header{
-		background: #102129 url('../img/jake_wall.jpg') no-repeat top center;
+		background: #102129 url('../img/jake_wall_resized_again_copy.jpg') no-repeat top center;
 		background-size: cover;
 	}
 	#quote{
-		background: #102129 url('../img/jake_frog.jpg') no-repeat top center;
+		background: #102129 url('../img/jake_frog_resized_again_copy.jpg') no-repeat top center;
 		background-size: cover;
 	}
 }
