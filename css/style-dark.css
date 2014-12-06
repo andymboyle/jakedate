@@ -195,7 +195,6 @@ input:focus{
 	top: 4px;
 }
 .nav{
-	float: right;
 	padding: 0;
 }
 .nav ul{
@@ -937,6 +936,9 @@ footer .copyright{
 	}
 }
 @media (max-width: 530px) {
+	.nav {
+		float: right;
+	}
 	h1{
 		font-size: 42px;
 		font-weight: 300;
@@ -1091,3 +1093,4 @@ footer .copyright{
 }
 
 .media-stuff { height: 100px; display: inline; }
+.author { padding-bottom: 20px; }
