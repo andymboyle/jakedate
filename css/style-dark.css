@@ -539,7 +539,7 @@ header .container{
 ******9. Reviews****
 **********************/
 #reviews{
-	background: #102129 url('../img/blurred-bg.jpg') no-repeat bottom center;
+	background: white;
 	background-size: cover;
 	text-align: center;
 	font-size: 18px;
@@ -560,6 +560,7 @@ header .container{
 	background-image: url('../img/avatar2.jpg');
 }
 #reviews .quote{
+	color: black;
 	font-family: Merriweather, serif;
 	font-weight: 300;
 	font-style: italic;
@@ -571,6 +572,7 @@ header .container{
 	line-height: 30px;
 }
 #reviews .quote:before, #reviews .quote:after{
+	color: black;
 	content: '\f347';
 	font-size: 64px;
 	position: absolute;
@@ -599,7 +601,7 @@ header .container{
 #reviews .author .position{
 	font-size: 14px;
 	font-weight: 400;
-	color: #576266;
+	color: black;
 }
 #reviews .author{
 	padding-top: 32px;
@@ -613,6 +615,10 @@ header .container{
 	border-color: #576266;
 	position: relative;
 	bottom: 32px;
+}
+
+#reviews .name{
+	color: black;
 }
 
 
