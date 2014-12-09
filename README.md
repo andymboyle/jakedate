@@ -1,4 +1,4 @@
 jakedate
 ========
 
-The all-in-one app for dating Jacob.
+[JakeDate.com](http://jakedate.com), the world's best online Jacob-dating service, was created by [The GroupThink Group](http://thegroupthinkgroup.com).
