@@ -1100,3 +1100,7 @@ footer .copyright{
 
 .media-stuff { height: 100px; display: inline; }
 .author { padding-bottom: 56px; }
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
